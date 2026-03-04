@@ -131,7 +131,7 @@ AIサービスのモデル名・無料枠・IDEの比較など、古い情報で
 
 ```bash
 # 1. このリポジトリをクローン（またはファイルをダウンロード）
-git clone https://github.com/yourusername/discord-bot-course
+git clone https://github.com/voigtla/AI-vivecording
 
 # 2. Part 3 のサンプルBotをすぐ試したい場合
 mkdir omikuji-bot && cd omikuji-bot
